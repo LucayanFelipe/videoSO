@@ -1,2 +1,2 @@
 # videoSO
-zzz
+Montando um servidor SAMBA
